@@ -1,0 +1,58 @@
+{
+  "admin": {
+    "password": "$2b$12$pS6hnONSYl2HegLGjVgkoOe/NWJeM5fItyIG2pPdxm7Gx7ibpu8Ga",
+    "profile_pic": null,
+    "role": "user",
+    "bio": "",
+    "favorite_destination": "",
+    "goals": ""
+  },
+  "chandana": {
+    "password": "$2b$12$YI/wrWDkbu0puNL3wl8VyeldtW/SdyTO4jzSC7AbscYatIkcDesH2",
+    "profile_pic": null,
+    "role": "user",
+    "bio": "",
+    "favorite_destination": "",
+    "goals": ""
+  },
+  "admin1": {
+    "password": "$2b$12$0SQ7Yct5hzH.wVgWHIFgnewQzlAoobEgCOqnXQ5p6MoDS6lXkw2cG",
+    "profile_pic": null,
+    "role": "user",
+    "bio": "",
+    "favorite_destination": "",
+    "goals": ""
+  },
+  "admin11": {
+    "password": "$2b$12$uMCeneolNHsZHm30kNbdIut0/a3j9wHYz.IyKVyrtpDYDvBUHycEi",
+    "profile_pic": "profile_pics/admin11.png",
+    "role": "user",
+    "bio": "",
+    "favorite_destination": "",
+    "goals": ""
+  },
+  "susanna": {
+    "password": "$2b$12$GQ897vsejb.aUTD.ezw01OPESIkckmUHE3XTKuCIBt8vS3h.oWyvO",
+    "profile_pic": "profile_pics/susanna.png",
+    "role": "user",
+    "bio": "thalossphile",
+    "favorite_destination": "manali",
+    "goals": "paris\nnorthern lights\npondicherry"
+  },
+  "susanna1": {
+    "password": "$2b$12$0M5dju3YmcizZYcX9IEzc.sZ7DHEuz.sgxgOHX5f2agXHCh8HCnLa",
+    "profile_pic": "profile_pics/susanna1.png",
+    "role": "user",
+    "bio": "",
+    "favorite_destination": "",
+    "goals": ""
+  },
+  "admin13": {
+    "password": "135",
+    "profile_pic": "profile_pics/admin13.png",
+    "role": "user",
+    "bio": "",
+    "favorite_destination": "",
+    "goals": ""
+  }
+}
